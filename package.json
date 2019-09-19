@@ -1,0 +1,29 @@
+{
+  "name": "Optical-Character-Recognition",
+  "version": "1.0.0",
+  "description": "JavaScript code for OCR",
+  "main": "random.js",
+  "scripts": {
+    "start" : "nodeman app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyushK52/Optical-Character-Recognition.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piyushK52/Optical-Character-Recognition/issues"
+  },
+  "homepage": "https://github.com/piyushK52/Optical-Character-Recognition#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "tesseract.js": "^1.0.19"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
